@@ -1,0 +1,22 @@
+{
+    "CONFIG":{
+        "port":10000,
+        "ip":"192.168.200.51",
+        "measure_throughput":true,
+        "upload_db":true,
+        "receive_buffer_size":3000,
+        "device_id":1,
+        "send_buffer_size":3000
+    },
+    "DBCONFIG":{
+        "organization":"MinenoLaboratory",
+        "token":"EaEdvq6Lf0AudJn1K0uurpVQfeYGlNocKqJie7_eyWcq9dPcbfzaE6NwcDuLufNhdfi92Bg8nnDh9x6n7FcN1Q==",
+        "bucket":"DaiwaComputer"
+    },
+    "SERVER_PRIORITY":{
+        "device_num":10,
+        "image_num":4,
+        "sensor_num":1,
+        "save_path":"/home/sakigake/priority/priority_server/data"
+    }
+}
